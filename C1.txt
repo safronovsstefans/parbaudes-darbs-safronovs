@@ -1,0 +1,15 @@
+
+skaitli = [1, 2, 3, 4, 5, 6]
+
+
+skaits = len(skaitli)
+summa = sum(skaitli)
+videjais = summa / skaits
+lielakais = max(skaitli)
+mazakais = min(skaitli)
+
+print("Skaits: " ,len(skaitli))
+print("Summa:" ,sum(skaitli))
+print("Videjais:" ,summa / skaits )
+print("Lielakais:" ,max(skaitli))
+print("Mazakais:" ,min(skaitli))
